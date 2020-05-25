@@ -1,0 +1,27 @@
+db.posts.insertMany([{
+    title : 'post two',
+    body : 'body of post one',
+    category : 'news',
+    date :Date()
+
+},
+{
+    title : 'post three',
+    body : 'body of post one',
+    category : 'news',
+    date :Date()
+
+},
+{
+    title : 'post four',
+    body : 'body of post one',
+    category : 'news',
+    date :Date()
+
+},{
+    title : 'post five',
+    body : 'body of post one',
+    category : 'news',
+    date :Date()
+
+}])
